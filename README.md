@@ -1,7 +1,7 @@
-# <p align="center"> Hi, I am <Marcello> ! </p>
+# <p align="center"> Hi, I am Marcello ! </p>
 
 <p align="center">
-  <i> Data Scientist ´ MSc Statistics @Sapienza ´ Rome, ITALY</i>
+  <i> Data Scientist ·  MSc Statistics @Sapienza ·  Rome, ITALY</i>
 </p>
 
 ---
