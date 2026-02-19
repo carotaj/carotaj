@@ -1,7 +1,7 @@
-# <p align="center"> Hi, I am Marcello ! </p>
+# <p align="center"> Hi, I am Marcello! 😁 </p>
 
 <p align="center">
-  <i> Data Scientist ·  MSc Statistics @Sapienza ·  Rome, ITALY</i>
+  <i> Data Scientist ·  MSc Statistics @Sapienza · Rome, ITALY</i>
 </p>
 
 ---
@@ -10,9 +10,9 @@
 I am a Graduate Data Scientist
 - **Currently** : collaborating with a Deep Tech startup that is transforming the walking experience through the integration of Edge AI and RAG systems.
 - **Work Experience** : Data Science Internship @JetBrains
-- **Education** : MSc Statistical Methods and Applications from **Sapienza University** and BA in Economics & Finance
-- **Skills** : Python ´ R ´ SQL/PostgreSQL ´ Git ´ LangChain
-- **Languages** : Italian(native) ´ English(fluent)
+- **Education** : MSc Statistical Methods and Applications @Sapienza University· Erasmus @Goethe University of Frankfurt ·BA in Economics & Finance
+- **Skills** : Python · R · SQL/PostgreSQL · Git · LangChain
+- **Languages** : Italian(native) · English(fluent) · French(beginner)
 
 ---
 
