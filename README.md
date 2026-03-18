@@ -20,7 +20,7 @@ I am a Graduate Data Scientist
 
 | Project | What it does | Tech highlights | Repo |
 |---|---|---|---|
-| VaR Model Validation Framework | Compares Historical / Parametric / MC-GARCH VaR on a multi-asset portfolio; backtesting (Kupiec/Christoffersen) | Python, pandas, statsmodels/arch | Coming soon |
+| VaR Model Validation Framework | Compares Historical / Parametric / MC-GARCH VaR on a multi-asset portfolio; backtesting (Kupiec/Christoffersen) | Python, pandas, statsmodels/arch | [Repo](https://github.com/carotaj/VaR-Model-Validation-Framework) |
 | Satellite-Based Environmental Change Detection | Detects environmental/urban change from Sentinel-2; NDVI/NDBI/NDMI + clustering and maps | Python, rasterio, geopandas, scikit-learn, GIS | Coming soon |
 | Structural Transformation (IPUMS) | Cross-country microdata analysis over time; heterogeneity + sectoral change. | R, panel/time series, econometrics | Coming soon |
 | Credit Default Risk Modeling | Turning raw account/repayment data into interpretable behavioral risk signals and default predictions | Python, Logistic Regression, XGBoost, Machine Learning | Coming soon |
