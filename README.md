@@ -24,7 +24,7 @@ I am a Graduate Data Scientist
 | Satellite-Based Environmental Change Detection | Detects environmental/urban change from Sentinel-2; NDVI/NDBI/NDMI + clustering and maps | Python, rasterio, geopandas, scikit-learn, GIS | Coming soon |
 | Structural Transformation (IPUMS) | Cross-country microdata analysis over time; heterogeneity + sectoral change. | R, panel/time series, econometrics | Coming soon |
 | Credit Default Risk Modeling | Turning raw account/repayment data into interpretable behavioral risk signals and default predictions | Python, Logistic Regression, XGBoost, Machine Learning | Coming soon |
-| Financial-Literacy-Analysis | Comprehensive analysis of financial literacy determinants using Bank of Italy surveys | STATA | [Repo](https://github.com/carotaj/Financial-Literacy-Analysis>) |
+| Financial-Literacy-Analysis | Comprehensive analysis of financial literacy determinants using Bank of Italy surveys | STATA | [Repo](https://github.com/carotaj/Financial-Literacy-Analysis) |
 
 --- 
 
