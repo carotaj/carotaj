@@ -7,9 +7,10 @@
 ---
 
 ### About me:
-I am a Graduate Data Scientist
-- **Currently** : collaborating with a Deep Tech startup that is transforming the walking experience through the integration of Edge AI and RAG systems.
-- **Work Experience** : Data Science Internship @JetBrains
+- **Currently**: working as a Quant Analyst at UBS, focusing on quantitative analysis, financial risk, and data-driven modelling.
+- **Work Experience**:
+  - Freelance AI Engineer at a Travel Tech startup, working on Edge AI and RAG systems.
+  - Data Science Intern at JetBrains.
 - **Education** : MSc Statistical Methods and Applications @Sapienza University· Erasmus @Goethe University of Frankfurt ·BA in Economics & Finance
 - **Skills** : Python · R · SQL/PostgreSQL · Git · LangChain
 - **Languages** : Italian(native) · English(fluent) · French(beginner)
