@@ -9,6 +9,7 @@
 ### About me:
 - **Currently**: working as a Quant Analyst at UBS, focusing on quantitative analysis, financial risk, and data-driven modelling.
 - **Work Experience**:
+  - Quant Analyst at UBS
   - Freelance AI Engineer at a Travel Tech startup, working on Edge AI and RAG systems.
   - Data Science Intern at JetBrains.
 - **Education** : MSc Statistical Methods and Applications @Sapienza University· Erasmus @Goethe University of Frankfurt ·BA in Economics & Finance
