@@ -12,7 +12,10 @@
   - Quant Analyst at UBS
   - Freelance AI Engineer at a Travel Tech startup, working on Edge AI and RAG systems.
   - Data Science Intern at JetBrains.
-- **Education** : MSc Statistical Methods and Applications @Sapienza University· Erasmus @Goethe University of Frankfurt ·BA in Economics & Finance
+- **Education** :
+  - MSc Statistical Methods and Applications @Sapienza University
+  - Erasmus @Goethe University of Frankfurt
+  - BA in Economics & Finance
 - **Skills** : Python · R · SQL/PostgreSQL · Git · LangChain
 - **Languages** : Italian(native) · English(fluent) · French(beginner)
 
