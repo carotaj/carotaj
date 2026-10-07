@@ -15,7 +15,7 @@
 - **Education** :
   - MSc Statistical Methods and Applications @Sapienza University
   - Erasmus @Goethe University of Frankfurt
-  - BA in Economics & Finance
+  - BSc in Economics & Finance
 - **Skills** : Python · R · SQL/PostgreSQL · Git · LangChain
 - **Languages** : Italian(native) · English(fluent) · French(beginner)
 
